@@ -13,3 +13,9 @@ path.resolve('src/app');
 // If the current working directory is /home
 // it will return /home/src/app
 ```
+
+It can also provide the system path seperator charactor as scuh
+
+```
+path.sep
+```
