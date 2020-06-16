@@ -9,12 +9,17 @@ A collection of things that I have learned through time and thought were importa
 ### Categories
 
 * [Investing](#investing)
+* [JavaScript](#javascript)
 
 ---
 
 ### Investing
 
 - [Junk Bonds](investing/junk-bonds.md)
+
+### JavaScript
+
+- [require('path') Module](javascript/path-module.md)
 
 ## License
 
