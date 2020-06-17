@@ -10,6 +10,7 @@ A collection of things that I have learned through time and thought were importa
 
 * [Investing](#investing)
 * [JavaScript](#javascript)
+* [Psychology](#psychology)
 
 ---
 
@@ -20,6 +21,10 @@ A collection of things that I have learned through time and thought were importa
 ### JavaScript
 
 - [require('path') Module](javascript/path-module.md)
+
+### Psychology
+
+- [Relative Deprivation Theory](psychology/relative-deprivation-theory.md)
 
 ## License
 
